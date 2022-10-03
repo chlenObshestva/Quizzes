@@ -1,5 +1,5 @@
 # Quizzes
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver
-Перейдите по URL /admin и добавьте опросы с правильными ответами
+1. python manage.py migrate
+2. python manage.py createsuperuser
+3. python manage.py runserver
+Переqnb по URL /admin и добавьте опросы с правильными ответами
